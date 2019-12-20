@@ -859,6 +859,7 @@ for DOY =DOYS
                                 grid on 
                                 
                                 plotrmse
+                              saveData(B_dump_factor,EbH2,EbH20,EoH2,EoH20,factorEb,RMSEK,Eb_dif)
                              chibreakicrease=1;
                              
                              
